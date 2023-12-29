@@ -8,4 +8,9 @@
   "profile": {
     "name": "typicode"
   }
+  "comment": [
+    {
+      "id": 2,
+      "title": "comment"
+    }
 }
